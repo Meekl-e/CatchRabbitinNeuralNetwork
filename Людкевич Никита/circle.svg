@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='{xwindowsize}px' height='{ywindowsize}px'>
+<circle cx='449.1764881249711' cy='103.72656808896097' r='2' stroke='red' fill='red'/>
+<circle cx='471.3939065644666' cy='79.65108492089185' r='2' stroke='red' fill='red'/>
+<circle cx='218.1755778394594' cy='140.0027353301232' r='2' stroke='red' fill='red'/>
+<circle cx='108.12502259369016' cy='101.62395666166324' r='2' stroke='red' fill='red'/>
+<circle cx='312.67571821972945' cy='459.6649881201071' r='2' stroke='red' fill='red'/>
+<circle cx='415.1786506188925' cy='269.77408515324265' r='2' stroke='red' fill='red'/>
+<circle cx='471.02117040719924' cy='114.50774790944874' r='2' stroke='red' fill='red'/>
+<circle cx='151.17628261908405' cy='449.85691279839864' r='2' stroke='red' fill='red'/>
+<circle cx='301.2405498960165' cy='108.63839131462005' r='2' stroke='red' fill='red'/>
+<circle cx='135.23993660224966' cy='328.4441786383551' r='2' stroke='red' fill='red'/>
+<circle cx='474.6205674657527' cy='455.83272046786874' r='2' stroke='red' fill='red'/>
+<circle cx='91.44262016347476' cy='191.01282552064575' r='2' stroke='red' fill='red'/>
+<circle cx='169.02461080924846' cy='212.33189400043767' r='2' stroke='red' fill='red'/>
+<circle cx='347.14147882412084' cy='336.08052179272903' r='2' stroke='red' fill='red'/>
+<circle cx='474.6110262521863' cy='212.97188171552057' r='2' stroke='red' fill='red'/>
+<circle cx='194.45673763632388' cy='31.315630016786443' r='2' stroke='red' fill='red'/>
+<circle cx='393.54792612222155' cy='263.4627306486517' r='2' stroke='red' fill='red'/>
+<circle cx='335.13985741970635' cy='405.6088053912092' r='2' stroke='red' fill='red'/>
+<circle cx='454.12808171856403' cy='41.181677882846046' r='2' stroke='red' fill='red'/>
+<circle cx='117.7927322256494' cy='405.7898941089296' r='2' stroke='red' fill='red'/>
+<circle cx='268.6129305071912' cy='376.4224556028468' r='2' stroke='red' fill='red'/>
+<circle cx='420.1735000549928' cy='211.3015665283995' r='2' stroke='red' fill='red'/>
+<circle cx='406.10971978948453' cy='163.2361102592559' r='2' stroke='red' fill='red'/>
+<circle cx='128.70140206838792' cy='38.917372235878545' r='2' stroke='red' fill='red'/>
+<circle cx='327.9572490004284' cy='277.29555607337335' r='2' stroke='red' fill='red'/>
+<circle cx='69.95724709815754' cy='58.77580255103465' r='2' stroke='red' fill='red'/>
+<circle cx='135.72760819494067' cy='94.89373693636315' r='2' stroke='red' fill='red'/>
+<circle cx='47.960459039897316' cy='178.74552028106504' r='2' stroke='red' fill='red'/>
+<circle cx='224.1442845944985' cy='361.14189762347416' r='2' stroke='red' fill='red'/>
+<circle cx='337.6313838568683' cy='180.37071518792845' r='2' stroke='red' fill='red'/>
+<circle cx='325.8422004064992' cy='281.0938238913643' r='2' stroke='red' fill='red'/>
+<circle cx='284.77108731215117' cy='406.5740704247884' r='2' stroke='red' fill='red'/>
+<circle cx='207.1682842941162' cy='176.11276368605115' r='2' stroke='red' fill='red'/>
+<circle cx='393.7887760968356' cy='288.94246769428713' r='2' stroke='red' fill='red'/>
+<circle cx='409.9513558511348' cy='303.33453439867037' r='2' stroke='red' fill='red'/>
+<circle cx='396.4383485564339' cy='90.75801328018923' r='2' stroke='red' fill='red'/>
+<circle cx='97.40240216317619' cy='78.87522643484152' r='2' stroke='red' fill='red'/>
+<circle cx='396.2300470138619' cy='429.8723255859949' r='2' stroke='red' fill='red'/>
+<circle cx='147.94983473325794' cy='45.1679040561927' r='2' stroke='red' fill='red'/>
+<circle cx='4.367508942740628' cy='269.77209567578205' r='2' stroke='green' fill='green'/>
+<line x1="57.448064981033056" y1="106.56064169051186" x2="72.20388783295353" y2="94.08775777066091" stroke="black" stroke-width="1" /><line x1="72.20388783295353" y1="94.08775777066091" x2="84.97787427850771" y2="84.99952682913572" stroke="black" stroke-width="1" /><line x1="84.97787427850771" y1="84.99952682913572" x2="132.59453590431545" y2="55.91846111819003" stroke="black" stroke-width="1" /><line x1="132.59453590431545" y1="55.91846111819003" x2="177.75961428339517" y2="54.0752311614864" stroke="black" stroke-width="1" /><line x1="177.75961428339517" y1="54.0752311614864" x2="335.94921541939084" y2="227.5992483840946" stroke="black" stroke-width="1" /><line x1="335.94921541939084" y1="227.5992483840946" x2="340.9119629266575" y2="238.0024187190569" stroke="black" stroke-width="1" /><line x1="340.9119629266575" y1="238.0024187190569" x2="311.491962734026" y2="273.83056473578006" stroke="black" stroke-width="1" /><line x1="311.491962734026" y1="273.83056473578006" x2="193.04427207555946" y2="341.88247174194316" stroke="black" stroke-width="1" /><line x1="193.04427207555946" y1="341.88247174194316" x2="119.22107191246343" y2="327.02365770643075" stroke="black" stroke-width="1" /><line x1="119.22107191246343" y1="327.02365770643075" x2="69.371903842475" y2="185.59434348456452" stroke="black" stroke-width="1" /><line x1="57.448064981033056" y1="106.56064169051186" x2="72.20388783295353" y2="94.08775777066091" stroke="black" stroke-width="1" /><line x1="72.20388783295353" y1="94.08775777066091" x2="84.97787427850771" y2="84.99952682913572" stroke="black" stroke-width="1" /><line x1="84.97787427850771" y1="84.99952682913572" x2="132.59453590431545" y2="55.91846111819003" stroke="black" stroke-width="1" /><line x1="132.59453590431545" y1="55.91846111819003" x2="177.75961428339517" y2="54.0752311614864" stroke="black" stroke-width="1" /><line x1="177.75961428339517" y1="54.0752311614864" x2="335.94921541939084" y2="227.5992483840946" stroke="black" stroke-width="1" /><line x1="335.94921541939084" y1="227.5992483840946" x2="340.9119629266575" y2="238.0024187190569" stroke="black" stroke-width="1" /><line x1="340.9119629266575" y1="238.0024187190569" x2="311.491962734026" y2="273.83056473578006" stroke="black" stroke-width="1" /><line x1="311.491962734026" y1="273.83056473578006" x2="193.04427207555946" y2="341.88247174194316" stroke="black" stroke-width="1" /><line x1="193.04427207555946" y1="341.88247174194316" x2="119.22107191246343" y2="327.02365770643075" stroke="black" stroke-width="1" /><line x1="119.22107191246343" y1="327.02365770643075" x2="69.371903842475" y2="185.59434348456452" stroke="black" stroke-width="1" /><circle cx='57.448064981033056' cy='106.56064169051186' r='3' stroke='orange' fill='orange'/>
+<circle cx='72.20388783295353' cy='94.08775777066091' r='3' stroke='orange' fill='orange'/>
+<circle cx='84.97787427850771' cy='84.99952682913572' r='3' stroke='orange' fill='orange'/>
+<circle cx='132.59453590431545' cy='55.91846111819003' r='3' stroke='orange' fill='orange'/>
+<circle cx='177.75961428339517' cy='54.0752311614864' r='3' stroke='orange' fill='orange'/>
+<circle cx='335.94921541939084' cy='227.5992483840946' r='3' stroke='orange' fill='orange'/>
+<circle cx='340.9119629266575' cy='238.0024187190569' r='3' stroke='orange' fill='orange'/>
+<circle cx='311.491962734026' cy='273.83056473578006' r='3' stroke='orange' fill='orange'/>
+<circle cx='193.04427207555946' cy='341.88247174194316' r='3' stroke='orange' fill='orange'/>
+<circle cx='119.22107191246343' cy='327.02365770643075' r='3' stroke='orange' fill='orange'/>
+<circle cx='69.371903842475' cy='185.59434348456452' r='3' stroke='orange' fill='orange'/>
+<line x1="57.448064981033056" y1="106.56064169051186" x2="72.20388783295353" y2="94.08775777066091" stroke="black" stroke-width="1" /><line x1="72.20388783295353" y1="94.08775777066091" x2="84.97787427850771" y2="84.99952682913572" stroke="black" stroke-width="1" /><line x1="84.97787427850771" y1="84.99952682913572" x2="132.59453590431545" y2="55.91846111819003" stroke="black" stroke-width="1" /><line x1="132.59453590431545" y1="55.91846111819003" x2="177.75961428339517" y2="54.0752311614864" stroke="black" stroke-width="1" /><line x1="177.75961428339517" y1="54.0752311614864" x2="335.94921541939084" y2="227.5992483840946" stroke="black" stroke-width="1" /><line x1="335.94921541939084" y1="227.5992483840946" x2="340.9119629266575" y2="238.0024187190569" stroke="black" stroke-width="1" /><line x1="340.9119629266575" y1="238.0024187190569" x2="311.491962734026" y2="273.83056473578006" stroke="black" stroke-width="1" /><line x1="311.491962734026" y1="273.83056473578006" x2="193.04427207555946" y2="341.88247174194316" stroke="black" stroke-width="1" /><line x1="193.04427207555946" y1="341.88247174194316" x2="119.22107191246343" y2="327.02365770643075" stroke="black" stroke-width="1" /><line x1="119.22107191246343" y1="327.02365770643075" x2="69.371903842475" y2="185.59434348456452" stroke="black" stroke-width="1" /><line x1="57.448064981033056" y1="106.56064169051186" x2="69.371903842475" y2="185.59434348456452" stroke="black" stroke-width="1" /><circle cx='250.1852371570966' cy='295.65398208594127' r='3' stroke='green' fill='green'/>
+<circle cx='89.84153627706146' cy='198.69992590996299' r='3' stroke='green' fill='green'/>
+<circle cx='70.45138542191776' cy='122.49358573792586' r='3' stroke='green' fill='green'/>
+<circle cx='126.50606610760443' cy='326.84030755937533' r='3' stroke='green' fill='green'/>
+<circle cx='250.01423205490158' cy='159.06808238185732' r='3' stroke='green' fill='green'/>
+<circle cx='203.7632845953175' cy='146.92708934323088' r='3' stroke='green' fill='green'/>
+<circle cx='145.570290391043' cy='89.99749309113336' r='3' stroke='green' fill='green'/>
+<circle cx='196.84566023010618' cy='127.14540839721548' r='3' stroke='green' fill='green'/>
+<circle cx='106.08828114855578' cy='221.2004167073735' r='3' stroke='green' fill='green'/>
+<line x1="57.448064981033056" y1="54.0752311614864" x2="57.448064981033056" y2="341.88247174194316" stroke="black" stroke-width="3" /><line x1="57.448064981033056" y1="341.88247174194316" x2="340.9119629266575" y2="341.88247174194316" stroke="black" stroke-width="3" /><line x1="340.9119629266575" y1="341.88247174194316" x2="340.9119629266575" y2="54.0752311614864" stroke="black" stroke-width="3" /><line x1="340.9119629266575" y1="54.0752311614864" x2="57.448064981033056" y2="54.0752311614864" stroke="black" stroke-width="3" /><circle cx='172.27039692643427' cy='180.8703930310777' r='2' stroke='purple' fill='purple'/>
+<text x="172.27039692643427" y="361.88247174194316" font-size="20" fill="black">Circle</text> 
+<text x="172.27039692643427" y="381.88247174194316" font-size="20" fill="black">57.869%</text> 
+</svg>
