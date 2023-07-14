@@ -10,8 +10,7 @@ x2 = 1000
 #y1 = p / math.sin(al)
 al = 1
 f = open('lines.svg', 'w')
-f.write('''
-<?xml version="1.0" encoding="utf-8"?>
+f.write('''<?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width='1000px' height="1000px">
 <rect x ="0"  y = '0' width='1000' height = '1000' fill = "rgb(0, 0, 0)" stroke = 'grey' stroke-width='5'/>''')
 for rfgr in range(100):

@@ -6,10 +6,15 @@
 В нашей мастерской существовали множество методов решения одной задачи.
 
 ## Основные проекты мастерской:
-### Поиск выпуклой оболочки объекта алгоритмическим путем: algorithmic_approach ([Людкевич Никита](https://github.com/Meekl-e/CatchRabbitinNeuralNetwork/tree/master/%D0%9B%D1%8E%D0%B4%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0))
-### Проведение отделяющих пространство линий (с одной стороны фигура, с другой ее нет): lines
-### Анализ фигуры по определению "больших" углов: cornersAnalyze ([Белкин Илья](https://github.com/Meekl-e/CatchRabbitinNeuralNetwork/tree/master/%D0%91%D0%B5%D0%BB%D0%BA%D0%B8%D0%BD%20%D0%98%D0%BB%D1%8C%D1%8F))
-### Поиск выпуклой оболочки нейронным подходом: allPoints
-### Анализ фигуры по принадлеэности к зверю (по периметру): figure
-### Поиск выпуклой оболочки и анализ фигуры другими оригинальными способами: [Иванов Михаил](https://github.com/Meekl-e/CatchRabbitinNeuralNetwork/tree/master/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB)
++ ### Поиск выпуклой оболочки объекта алгоритмическим путем: algorithmic_approach ([Людкевич Никита](https://github.com/Meekl-e/CatchRabbitinNeuralNetwork/tree/master/%D0%9B%D1%8E%D0%B4%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0))
+##### Вывод: picture.svg
++ ### Проведение отделяющих пространство линий (с одной стороны фигура, с другой ее нет): lines
+##### Вывод: lines.svg
++ ### Анализ фигуры по определению "больших" углов: cornersAnalyze ([Белкин Илья](https://github.com/Meekl-e/CatchRabbitinNeuralNetwork/tree/master/%D0%91%D0%B5%D0%BB%D0%BA%D0%B8%D0%BD%20%D0%98%D0%BB%D1%8C%D1%8F))
+##### Вывод: Picture.svg (фигура), в консоль
++ ### Поиск выпуклой оболочки нейронным подходом: allPoints
+##### Вывод: allPoints.svg
++ ### Анализ фигуры по принадлеэности к зверю (по периметру): figure
+##### Вывод: square_circle_triangle.svg (фигура), принадлежность в консоль
++ ### Поиск выпуклой оболочки и анализ фигуры другими оригинальными способами: [Иванов Михаил](https://github.com/Meekl-e/CatchRabbitinNeuralNetwork/tree/master/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB)
 

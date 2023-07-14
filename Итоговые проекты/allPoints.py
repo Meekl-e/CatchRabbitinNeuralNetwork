@@ -33,13 +33,16 @@ for rfgr in range(20):
     gy = random.randint(10, 180)
     tochki.append((gx, gy))
     
-for x in range(0,200):
-    for y in range(0,200):
+for x in range(0,200, 4):
+    for y in range(0,200, 4):
         g = toc(x, y)
         
         if g == 1:
             f.write(f'''
-        <circle cx="{x}" cy="{y}" r="0.5" stroke="white" stroke-width="0" fill="black" />''')
-                   
+        <circle cx="{x}" cy="{y}" r="2" stroke="white" stroke-width="0" fill="black" />''')
+
+for x,y in tochki:
+    f.write(f'<circle cx="{x}" cy="{y}" r="5" stroke="yellow" stroke-width="0" fill="yellow" />')
+
 f.write('</svg>\n')           
-f.close    
+f.close()

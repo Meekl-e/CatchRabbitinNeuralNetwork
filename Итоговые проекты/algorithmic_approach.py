@@ -28,7 +28,7 @@ dotsin=[]
 dotsout=[]
 f=open('picture.svg','w')
 f.write("<?xml version='1.0' encoding='utf-8'?>\n")
-f.write("<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='{xwindowsize}px' height='{ywindowsize}px'>\n")
+f.write(f"<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='{xwindowsize}px' height='{ywindowsize}px'>\n")
 for i in range(100):
     coordsnew=[]
     coordsnew.append(random()*xwindowsize)
