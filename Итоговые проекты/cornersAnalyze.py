@@ -8,7 +8,7 @@ rput=[]
 smas=[]
 coords=int()
 put=[]
-f=open('Picture.svg','w')
+f=open('cornersAnalyze.svg','w')
 f.write('<?xml version="1.0" encoding="utf-8"?>') 
 f.write('\n')
 f.write('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200000px" height="200000px">')
@@ -60,4 +60,4 @@ if amp>=4 and amp<=8:
 elif amp==1:
     print('Circle')
 elif amp>=2 and amp<=3:
-    print('Triangle')ыыы
+    print('Triangle')

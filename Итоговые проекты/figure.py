@@ -1,7 +1,7 @@
 import math
 import numpy
 import random
-f=open('square_circle_triangle.svg', 'w')
+f=open('figure.svg', 'w')
 f.write('''<?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1700px" height="1700px">\n''')
 tochki = []
